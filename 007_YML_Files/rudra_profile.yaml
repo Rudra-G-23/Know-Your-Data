@@ -1,0 +1,53 @@
+
+# Rudra Prasad Bhuyan - YAML Profile
+
+profile:
+  name: Rudra Prasad Bhuyan
+  age: 24
+  city: Bhubaneswar
+  state: Odisha
+  country: India
+  profession: Beginner Data Analyst
+  interests:
+    - Data Analysis
+    - Machine Learning
+    - Football
+    - Reading
+  skills:
+    - Python
+    - SQL
+    - Pandas
+    - Scikit-learn
+  bio: |
+    Hello! I am Rudra Prasad Bhuyan, a passionate learner from Bhubaneswar.
+    I am exploring data analysis and machine learning, aiming to build industry-grade projects.
+    I love football and reading tech articles in my free time.
+
+social_media:
+  linkedin: https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235
+  github: https://github.com/Rudra-G-23
+  kaggle: https://www.kaggle.com/rudraprasadbhuyan
+  medium: https://medium.com/@rudraprasadbhuyan999
+
+projects:
+  - name: Yelp Dataset ML Project
+    description: Analyzing Yelp reviews and building predictive models to extract business insights.
+    tech_stack:
+      - Python
+      - Pandas
+      - PostgreSQL
+      - Airflow
+  - name: NeurIPS Polymer Prediction
+    description: Kaggle competition to predict polymer properties from SMILES strings.
+    tech_stack:
+      - Python
+      - XGBoost
+      - RDKit
+
+availability:
+  looking_for_job: true
+  open_to_collaboration: true
+  preferred_roles:
+    - Data Analyst Intern
+    - Junior Machine Learning Engineer
+

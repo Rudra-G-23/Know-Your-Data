@@ -1,0 +1,11 @@
+profile:
+  name: Rudra
+  city: Bhubaneswar
+  country: India
+  active: true
+
+friend:
+  name: Abhi
+  city: Cuttack
+  country: India
+  active: true
